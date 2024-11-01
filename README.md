@@ -1,5 +1,5 @@
 # Online-Expense-Tracker
-Tech stack used for this project are : Java 1.8, Servlets, Jsp, Hibernate, Mysql, html, css, bootstrap, build tool-Maven, IDE-Intellij idea.
+Tech stack used for this project are : Java , Servlets, Jsp, Hibernate, Mysql, html, css, bootstrap, build tool-Maven, IDE-Intellij idea.
 ![Screenshot (1)](https://user-images.githubusercontent.com/113333379/234774434-2e1913b1-2b27-4013-9359-6ea1d7db8255.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/113333379/234774546-e85dae9b-1338-4cd3-9cfb-7f360ccffd4a.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/113333379/234774551-b6aabfd9-793c-4dcf-ba40-19c31d48ada7.png)
